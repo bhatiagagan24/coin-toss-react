@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/coin-toss-react/static/js/main.fa891c06.chunk.js",
+    "main.js.map": "/coin-toss-react/static/js/main.fa891c06.chunk.js.map",
+    "runtime-main.js": "/coin-toss-react/static/js/runtime-main.59242b36.js",
+    "runtime-main.js.map": "/coin-toss-react/static/js/runtime-main.59242b36.js.map",
+    "static/js/2.55b90ec3.chunk.js": "/coin-toss-react/static/js/2.55b90ec3.chunk.js",
+    "static/js/2.55b90ec3.chunk.js.map": "/coin-toss-react/static/js/2.55b90ec3.chunk.js.map",
+    "index.html": "/coin-toss-react/index.html",
+    "static/js/2.55b90ec3.chunk.js.LICENSE.txt": "/coin-toss-react/static/js/2.55b90ec3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59242b36.js",
+    "static/js/2.55b90ec3.chunk.js",
+    "static/js/main.fa891c06.chunk.js"
+  ]
+}
